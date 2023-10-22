@@ -1,0 +1,22 @@
+{
+  "name": "personalwebsite",
+  "version": "1.0.0",
+  "description": "personalwebsite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudpc7/personalwebsite.git"
+  },
+  "author": "paul cloud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cloudpc7/personalwebsite/issues"
+  },
+  "engines" : {
+    "node": "18.12.1"
+  },
+  "homepage": "https://github.com/cloudpc7/personalwebsite#readme"
+}
